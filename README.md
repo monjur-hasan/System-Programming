@@ -6,7 +6,7 @@ A concurrent caching Web proxy that sits between browser and the rest of the Wor
 Implemented own versions of malloc, free, and realloc. This project gives students a clear understanding of data layout and organization, and requires them to evaluate different trade-offs between space and time efficiency.  
 
 **Lab 5: Shell**
-Implement simple Unix shell program with job control, including the ctrl-c and ctrl-z keystrokes, fg, bg, and jobs commands. This is the first introduction to application level concurrency, and gives them a clear idea of Unix process control, signals, and signal handling.
+Implement simple Unix shell program with job control, including the ctrl-c and ctrl-z keystrokes, fg, bg, and jobs commands. This is the first introduction to application level concurrency, and gives students a clear idea of Unix process control, signals, and signal handling.
 
 **Lab 4: Cache**
 Implemented a general-purpose cache simulator, and then optimized a small matrix transpose kernel to minimize the number of misses on a simulated cache. This project uses the Valgrind tool to generate address traces.
