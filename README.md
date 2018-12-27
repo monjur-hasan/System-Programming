@@ -1,6 +1,6 @@
 
 **Lab 7: Proxy**
-A concurrent caching Web proxy that sits between their browser and the rest of the World Wide Web. This project exposes students to the interesting world of network programming, and ties together many of the concepts from the course, such as byte ordering, caching, process control, signals, signal handling, file I/O, concurrency, and synchronization.
+A concurrent caching Web proxy that sits between browser and the rest of the World Wide Web. This project exposes students to the interesting world of network programming, and ties together many of the concepts from the course, such as byte ordering, caching, process control, signals, signal handling, file I/O, concurrency, and synchronization.
 
 **Lab 6: Malloc**
 Implemented own versions of malloc, free, and realloc. This project gives students a clear understanding of data layout and organization, and requires them to evaluate different trade-offs between space and time efficiency.  
