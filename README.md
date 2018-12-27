@@ -33,5 +33,4 @@ The project involves implementing a queue, supporting both last-in, first-out (L
 queueing disciplines. The underlying data structure is a singly-linked list, enhanced to make some of the
 operations more efficient.
 
-**Source**
-http://csapp.cs.cmu.edu/3e/labs.html
+**Source:** http://csapp.cs.cmu.edu/3e/labs.html
