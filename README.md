@@ -1,5 +1,3 @@
-**System-Programming**
-
 **Lab 0: C-Programming Review**
 
 The lab involves implementing a queue, supporting both last-in, first-out (LIFO) and first-in-first-out (FIFO)
